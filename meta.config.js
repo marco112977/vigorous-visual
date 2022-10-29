@@ -1,4 +1,4 @@
 export default {
-  name: "阿汤",
+  name: "汤利军",
   skills: ["Vue3", "js", "ts", "react", "solidjs"],
 };
